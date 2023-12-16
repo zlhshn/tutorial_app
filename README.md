@@ -1,6 +1,9 @@
-# API Base URLs
+## Description
+In this project, I worked on get, post, put and delete operations using axios.
 
-## https://tutorial-api.fullstack.clarusway.com/
+## API Base URLs
+
+https://tutorial-api.fullstack.clarusway.com/
 
 ### API ENDPOINTS
 
@@ -14,4 +17,4 @@
 
 # Deployed Frontend
 
-## https://tutorial.fullstack.clarusway.com/
+https://tutorial.fullstack.clarusway.com/
